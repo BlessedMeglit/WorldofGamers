@@ -16,7 +16,7 @@ body{
 }
 .primary-btn{
     color: white;
-    background-color: #8845f4;
+    background-color: steelblue;
     padding: 13px 42px 13px 42px;
     border-radius: 20px;
     text-decoration: none;
@@ -40,8 +40,8 @@ body{
     padding-right: 25%;
 }
 .experiencers{
-    padding: 30px;
-    margin: 30px;
+    padding: 12px;
+    margin: 16px;
     background-color: rgb(0, 251, 255);
-    border-radius: 20px;
-
+    border-radius: 12px;
+}
